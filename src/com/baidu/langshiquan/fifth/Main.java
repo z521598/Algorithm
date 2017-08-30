@@ -9,10 +9,11 @@ package com.baidu.langshiquan.fifth;
  * 并输出所有的可能性。例如：1 + 2 + 34 – 5 + 67 – 8 + 9 = 100。
  */
 public class Main {
-    // (正负1)(x10)或(x1)
     public static void main(String[] args) {
         for (int i = 1; i <= 9; i++) {
+            for (int j = 0; j < 3; j++) {
 
+            }
         }
     }
 }
